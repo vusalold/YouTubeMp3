@@ -1,9 +1,9 @@
 {
   "versionCode": 5,
   "versionName": "1.4.0",
-  "apkUrl": "https://github.com/vusalold/YouTubeMp3/releases/latest/download/app-release.apk",
+  "apkUrl": "https://github.com/vusalold/YouTubeMp3/releases/latest/download/YouTubeMp3-v1.4.0.apk",
   "changelog": [
-    "Bug fixes",
-    "Auto Update düzəlişləri"
+    "Yeni tema",
+    "Bug Fix"
   ]
 }
