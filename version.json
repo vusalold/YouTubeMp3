@@ -1,12 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/vusalold/YouTubeMp3/releases/latest/download/YouTubeMp3-v1.5.0.apk",
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/vusalold/YouTubeMp3/releases/latest/download/YouTubeMp3.apk",
   "changelog": [
-    "Download History əlavə edildi",
-    "MP3 yükləmə sürəti artırıldı",
-    "Metadata Cache əlavə edildi",
-    "FFmpeg optimallaşdırıldı",
-    "Bug Fix"
+    "🔎 New Search Experience",
+    "🎨 Light & Dark Mode",
+    "📥 New Interactive Downloads Center",
+    "🔗 Quick YouTube Link Support",
+    "⚡ Performance Improvements",
+    "🛠 Bug Fixes & Stability Improvements"
   ]
 }
