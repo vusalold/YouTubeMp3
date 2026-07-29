@@ -36,7 +36,6 @@ It provides a beautiful Material 3 interface for downloading available audio con
 - 🎧 Multiple Audio Quality Options
 - 🌙 Material 3 Dark UI
 - 🔄 Auto Update System
-- 📊 Download Statistics
 - 📁 Download History
 - 🚀 Built with Jetpack Compose
 
