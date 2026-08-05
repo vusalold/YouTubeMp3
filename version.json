@@ -1,13 +1,11 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
+  "versionCode": 8,
+  "versionName": "1.7.0",
   "apkUrl": "https://github.com/vusalold/YouTubeMp3/releases/latest/download/YouTubeMp3.apk",
   "changelog": [
-    "🔎 New Search Experience",
-    "🎨 Light & Dark Mode",
-    "📥 New Interactive Downloads Center",
-    "🔗 Quick YouTube Link Support",
-    "⚡ Performance Improvements",
-    "🛠 Bug Fixes & Stability Improvements"
+    "🌍 Azerbaijani, Turkish and English languages added",
+    "⚡ Faster download dialog",
+    "🎵 Metadata loading optimized",
+    "🛠️ Localization and startup crash fixed"
   ]
 }
