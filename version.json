@@ -1,11 +1,14 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7.0",
+  "versionCode": 9,
+  "versionName": "1.8.0",
   "apkUrl": "https://github.com/vusalold/YouTubeMp3/releases/latest/download/YouTubeMp3.apk",
   "changelog": [
-    "🌍 Azerbaijani, Turkish and English languages added",
-    "⚡ Faster download dialog",
-    "🎵 Metadata loading optimized",
-    "🛠️ Localization and startup crash fixed"
+    "Yeni axtarış təklifləri və axtarış tarixçəsi",
+  "Fərdiləşdirilmiş 'Sənin üçün' musiqi lenti",
+  "MP3 metadata və albüm şəkli təkmilləşdirildi",
+  "MediaStore inteqrasiyası yaxşılaşdırıldı",
+  "Yükləmə tamamlanma bildirişi",
+  "Dil sistemi və tətbiq stabilliyi düzəldildi",
+  "Müxtəlif performans və xəta düzəlişləri"
   ]
 }
