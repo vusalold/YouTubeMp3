@@ -1,10 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/vusalold/YouTubeMp3/releases/latest/download/Soundra.apk",
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/vusalold/Soundra/releases/latest/download/Soundra.apk",
   "changelog": [
-    "Playlist əlavə edildi.",
-  "Bug Fix",
-  "Rus dili əlavə edildi.",
+    "Auto update test"
   ]
 }
